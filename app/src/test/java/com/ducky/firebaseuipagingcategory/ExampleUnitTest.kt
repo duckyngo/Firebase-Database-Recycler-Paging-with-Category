@@ -1,4 +1,4 @@
-package com.ducky.firebaseui_paging_category
+package com.ducky.firebaseuipagingcategory
 
 import org.junit.Test
 
